@@ -440,7 +440,7 @@
     <child
       link="wrist3_link" />
     <axis
-      xyz="0 0 0" />
+      xyz="0 0 1" />
     <limit
       lower="-3.0543"
       upper="3.0543"
